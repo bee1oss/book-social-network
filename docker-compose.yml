@@ -29,3 +29,5 @@ networks:
 volumes:
   postgres:
     driver: local
+
+#this is step 5
